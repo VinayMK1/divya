@@ -1,1 +1,1 @@
-print("divya")
+print("di")
